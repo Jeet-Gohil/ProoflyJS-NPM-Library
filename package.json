@@ -1,6 +1,6 @@
 {
   "name": "proofly-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny JS tracking library for personal conversion tracking with a local dashboard",
   "main": "index.js",
   "bin": {
