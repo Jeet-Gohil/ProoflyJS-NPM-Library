@@ -1,16 +1,9 @@
 {
   "name": "proofly-js",
   "version": "1.0.0",
-  "description": "Self-hosted site conversion tracker. Zero vendor lock-in.",
   "main": "index.js",
-  "type": "module",
   "bin": {
     "proofly-init": "./bin/init-dashboard.js"
   },
-  "keywords": ["analytics", "tracking", "socket.io", "self-hosted"],
-  "author": "Your Name",
-  "license": "MIT",
-  "dependencies": {
-    "socket.io-client": "^4.7.2"
-  }
+  "type": "module"
 }
